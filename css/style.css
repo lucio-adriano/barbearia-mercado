@@ -172,16 +172,19 @@ td, th {
 	width: 940px;
 	margin: 0 auto;
 }
-
+.principal h3 {
+	text-align: center;
+	margin-bottom: 2em;
+}
 .principal p {
 	margin: 0 0 1em;
 }
 
-.principal strong {
+.principal strong, h3 {
 	font-weight: bold;
 }
 
-.principal em {
+.principal em, h3 {
 	font-style: italic;
 }
 
